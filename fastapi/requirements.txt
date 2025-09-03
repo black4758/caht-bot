@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pinecone-client
+sentence-transformers
+pypdf
+python-dotenv
+SQLAlchemy
+aiomysql
+greenlet
